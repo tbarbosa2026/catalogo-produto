@@ -253,8 +253,135 @@ const produtos = [
         codigo: "32879",
         descricao: "Cabo Singelo 0,75mm Azul",
         imagem: "imagens/32879.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 028
+    // ----------------------------------------
+    {
+        codigo: "32965",
+        descricao: "Silico Vermelho 55g",
+        imagem: "imagens/32965.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 029
+    // ----------------------------------------
+    {
+        codigo: "33840",
+        descricao: "Resistência de Aquecimento Emulsão",
+        imagem: "imagens/33840.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 030
+    // ----------------------------------------
+    {
+        codigo: "34223",
+        descricao: "Micro Ventilador Ventisilva",
+        imagem: "imagens/34223.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 031
+    // ----------------------------------------
+    {
+        codigo: "34669",
+        descricao: "Rele Segurança 3TK25 Siemens Sirius",
+        imagem: "imagens/34669.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 032
+    // ----------------------------------------
+    {
+        codigo: "34774",
+        descricao: "Contator 3RH11 40-1BB40 24VDC Siemens",
+        imagem: "imagens/34774.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 033
+    // ----------------------------------------
+    {
+        codigo: "34886",
+        descricao: "Chave de Desalinhamento Patio",
+        imagem: "imagens/34886.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 034
+    // ----------------------------------------
+    {
+        codigo: "35969",
+        descricao: "Manta Poliester para Filtro Ventilador",
+        imagem: "imagens/35969.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 035
+    // ----------------------------------------
+    {
+        codigo: "43584",
+        descricao: "Resistência Itipack",
+        imagem: "imagens/43584.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 036
+    // ----------------------------------------
+    {
+        codigo: "51162",
+        descricao: "Sensor Indutivo 3F 8mm atuação",
+        imagem: "imagens/51162.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 037
+    // ----------------------------------------
+    {
+        codigo: "54179",
+        descricao: "Pressostato LGW10A2P",
+        imagem: "imagens/54179.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 038
+    // ----------------------------------------
+    {
+        codigo: "59838",
+        descricao: "Contator 3RT1036 220VCA",
+        imagem: "imagens/59838.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 039
+    // ----------------------------------------
+    {
+        codigo: "74486",
+        descricao: "Cabo IFM Laranja 10m",
+        imagem: "imagens/74486.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 040
+    // ----------------------------------------
+    {
+        codigo: "74648",
+        descricao: "Cabo IFM Laranja 25m",
+        imagem: "imagens/74648.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 041
+    // ----------------------------------------
+    {
+        codigo: "74716",
+        descricao: "Sensor Desalinhamento Prensa",
+        imagem: "imagens/74716.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 042
+    // ----------------------------------------
+    {
+        codigo: "74726",
+        descricao: "Contator 3RT1017 220VCA ",
+        imagem: "imagens/74726.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 043
+    // ----------------------------------------
+    {
+        codigo: "76435",
+        descricao: "Sensor Leuze PRK46C",
+        imagem: "imagens/76435.jpeg"
     }
-    
 
 
 ];
