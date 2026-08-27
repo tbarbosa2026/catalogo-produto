@@ -430,6 +430,30 @@ const produtos = [
         descricao: "Transmissor Novus Icavi",
         imagem: "imagens/72226.jpeg"
     },
+    // ----------------------------------------
+    // PRODUTO 050
+    // ----------------------------------------
+    {
+        codigo: "105106",
+        descricao: "Termopar Tipo S Vyncke FA2",
+        imagem: "imagens/105106.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 051
+    // ----------------------------------------
+    {
+        codigo: "109289",
+        descricao: "Rele Omron 5 pinos 24vdc ",
+        imagem: "imagens/109289.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 052
+    // ----------------------------------------
+    {
+        codigo: "111365",
+        descricao: "Fonte 2,5A",
+        imagem: "imagens/111365.jpeg"
+    },
 
 
 ];
