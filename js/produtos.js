@@ -190,7 +190,71 @@ const produtos = [
         codigo: "28125",
         descricao: "Rele Foto Acoplador ",
         imagem: "imagens/28125.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 021
+    // ----------------------------------------
+
+    {
+        codigo: "28368",
+        descricao: "Botão de Emergência 40mm",
+        imagem: "imagens/28368.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 022
+    // ----------------------------------------
+
+    {
+        codigo: "28402",
+        descricao: "Aquametro",
+        imagem: "imagens/28402.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 023
+    // ----------------------------------------
+
+    {
+        codigo: "28898",
+        descricao: "Cabeçote Fim de curso Bunker Prensa",
+        imagem: "imagens/28898.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 024
+    // ----------------------------------------
+
+    {
+        codigo: "29499",
+        descricao: "Sensor Indutivo 3F 4mm atuação",
+        imagem: "imagens/29499.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 025
+    // ----------------------------------------
+
+    {
+        codigo: "31403",
+        descricao: "Bloco de Contato 3RV19 011E",
+        imagem: "imagens/31403.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 026
+    // ----------------------------------------
+
+    {
+        codigo: "31625",
+        descricao: "Conector Femea Reto M12 4 Pino",
+        imagem: "imagens/31625.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 027
+    // ----------------------------------------
+
+    {
+        codigo: "32879",
+        descricao: "Cabo Singelo 0,75mm Azul",
+        imagem: "imagens/32879.jpeg"
     }
+    
 
 
 ];
