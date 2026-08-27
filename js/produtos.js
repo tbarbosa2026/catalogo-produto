@@ -381,7 +381,55 @@ const produtos = [
         codigo: "76435",
         descricao: "Sensor Leuze PRK46C",
         imagem: "imagens/76435.jpeg"
-    }
+    },
+    // ----------------------------------------
+    // PRODUTO 044
+    // ----------------------------------------
+    {
+        codigo: "90003",
+        descricao: "Sensor de Vibração VTV IFM",
+        imagem: "imagens/90003.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 045
+    // ----------------------------------------
+    {
+        codigo: "95823",
+        descricao: "Plugue Steck Azul 3P 220V 16A",
+        imagem: "imagens/95823.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 046
+    // ----------------------------------------
+    {
+        codigo: "95824",
+        descricao: "Plugue Steck 4P 380V 63A",
+        imagem: "imagens/95824.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 047
+    // ----------------------------------------
+    {
+        codigo: "98623",
+        descricao: "Caixa de Passagem Tomada de Manutenção",
+        imagem: "imagens/98623.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 048
+    // ----------------------------------------
+    {
+        codigo: "98660",
+        descricao: "Tomada de Embutir 3P",
+        imagem: "imagens/98660.jpeg"
+    },
+    // ----------------------------------------
+    // PRODUTO 049
+    // ----------------------------------------
+    {
+        codigo: "72226",
+        descricao: "Transmissor Novus Icavi",
+        imagem: "imagens/72226.jpeg"
+    },
 
 
 ];
