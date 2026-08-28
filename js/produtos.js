@@ -40,7 +40,7 @@ const produtos = [
 
     {
         codigo: "105239",
-        descricao: "Junta 1" 300lbs ASME",
+        descricao: "Junta 1 300lbs ASME",
         imagem: "imagens/105239.jpeg"
     },
 
