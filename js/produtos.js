@@ -10,7 +10,7 @@ const produtos = [
 
     //{
     //    codigo: "10303",
-    //    descricao: "Junta de Papelão 1/32" ",
+    //    descricao: "Junta de Papelão 1/32 ",
     //    imagem: "imagens/10303.jpeg"
     //},
 
@@ -20,7 +20,7 @@ const produtos = [
 
     //{
     //    codigo: "10305",
-    //    descricao: "Junta Papelão 1/8" ",
+    //    descricao: "Junta Papelão 1/8 ",
     //    imagem: "imagens/10305.jpeg"
     //},
 
