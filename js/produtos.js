@@ -9,9 +9,9 @@ const produtos = [
     // ----------------------------------------
 
     {
-        codigo: "12883",
-        descricao: "Relé de nivel altronic",
-        imagem: "imagens/12883.jpeg"
+        codigo: "10303",
+        descricao: "Junta de Papelão 1/32" ",
+        imagem: "imagens/10303.jpeg"
     },
 
     // ----------------------------------------
@@ -19,9 +19,9 @@ const produtos = [
     // ----------------------------------------
 
     {
-        codigo: "15903",
-        descricao: "PT100 300mm",
-        imagem: "imagens/15903.jpeg"
+        codigo: "10305",
+        descricao: "Junta Papelão 1/8" ",
+        imagem: "imagens/10305.jpeg"
     },
 
     // ----------------------------------------
@@ -29,9 +29,9 @@ const produtos = [
     // ----------------------------------------
 
     {
-        codigo: "19771",
-        descricao: "Pressostato Dansfoss 017-5291",
-        imagem: "imagens/19771.jpeg"
+        codigo: "105106",
+        descricao: "Termopar Tipo S Vyncke FA2",
+        imagem: "imagens/105106.jpeg"
     },
 
     // ----------------------------------------
@@ -39,9 +39,9 @@ const produtos = [
     // ----------------------------------------
 
     {
-        codigo: "23882",
-        descricao: "Contator 3RT1026 24VDC",
-        imagem: "imagens/23882.jpeg"
+        codigo: "105239",
+        descricao: "Junta 1" 300lbs ASME",
+        imagem: "imagens/105239.jpeg"
     },
 
     // ----------------------------------------
@@ -49,9 +49,9 @@ const produtos = [
     // ----------------------------------------
 
     {
-        codigo: "24185",
-        descricao: "Contator 3TH20 40-OBB4 24VDC",
-        imagem: "imagens/24185.jpeg"
+        codigo: "106722",
+        descricao: "Lamina de Estilete Starret",
+        imagem: "imagens/106722.jpeg"
     },
 
     // ----------------------------------------
@@ -59,9 +59,9 @@ const produtos = [
     // ----------------------------------------
 
     {
-        codigo: "24946",
-        descricao: "Alavanca curta Telemecanique",
-        imagem: "imagens/24946.jpeg"
+        codigo: "109289",
+        descricao: "Rele Omron 24vdc Paineis Vyncke",
+        imagem: "imagens/109289.jpeg"
     },
 
     // ----------------------------------------
