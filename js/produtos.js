@@ -453,7 +453,7 @@ const produtos = [
         codigo: "111365",
         descricao: "Fonte 2,5A",
         imagem: "imagens/111365.jpeg"
-    },
+    }
 
 
 ];
