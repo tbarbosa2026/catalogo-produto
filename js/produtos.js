@@ -8,31 +8,31 @@ const produtos = [
     // PRODUTO 001
     // ----------------------------------------
 
-    {
-        codigo: "10303",
-        descricao: "Junta de Papelão 1/32" ",
-        imagem: "imagens/10303.jpeg"
-    },
+    //{
+    //    codigo: "10303",
+    //    descricao: "Junta de Papelão 1/32" ",
+    //    imagem: "imagens/10303.jpeg"
+    //},
 
     // ----------------------------------------
     // PRODUTO 002
     // ----------------------------------------
 
-    {
-        codigo: "10305",
-        descricao: "Junta Papelão 1/8" ",
-        imagem: "imagens/10305.jpeg"
-    },
+    //{
+    //    codigo: "10305",
+    //    descricao: "Junta Papelão 1/8" ",
+    //    imagem: "imagens/10305.jpeg"
+    //},
 
     // ----------------------------------------
     // PRODUTO 003
     // ----------------------------------------
 
-    {
-        codigo: "105106",
-        descricao: "Termopar Tipo S Vyncke FA2",
-        imagem: "imagens/105106.jpeg"
-    },
+    //{
+    //    codigo: "105106",
+    //    descricao: "Termopar Tipo S Vyncke FA2",
+    //    imagem: "imagens/105106.jpeg"
+    //},
 
     // ----------------------------------------
     // PRODUTO 004
@@ -58,11 +58,11 @@ const produtos = [
     // PRODUTO 006
     // ----------------------------------------
 
-    {
-        codigo: "109289",
-        descricao: "Rele Omron 24vdc Paineis Vyncke",
-        imagem: "imagens/109289.jpeg"
-    },
+    //{
+    //    codigo: "109289",
+    //    descricao: "Rele Omron 24vdc Paineis Vyncke",
+    //    imagem: "imagens/109289.jpeg"
+    //},
 
     // ----------------------------------------
     // PRODUTO 007
