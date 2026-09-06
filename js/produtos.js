@@ -1340,7 +1340,7 @@ const produtos = [
 
     {
         codigo: "36051",
-        descricao: "",
+        descricao: "Esponja Fibra para Limpeza",
         imagem: "imagens/36051.jpeg"
     },
 
@@ -1350,7 +1350,7 @@ const produtos = [
 
     {
         codigo: "36249",
-        descricao: "",
+        descricao: "Manometro Wika 0 a 4 BAR",
         imagem: "imagens/36249.jpeg"
     },
 
@@ -1360,7 +1360,7 @@ const produtos = [
 
     {
         codigo: "36250",
-        descricao: "",
+        descricao: "Manometro Wika 0 a 1,6 BAR",
         imagem: "imagens/36250.jpeg"
     },
 
@@ -1370,7 +1370,7 @@ const produtos = [
 
     {
         codigo: "36418",
-        descricao: "",
+        descricao: "Conexão Tipo L 1/2 para 16mm",
         imagem: "imagens/36418.jpeg"
     },
 
@@ -1380,7 +1380,7 @@ const produtos = [
 
     {
         codigo: "37343",
-        descricao: "",
+        descricao: "Cabo para Sensor Esteira de Rolete",
         imagem: "imagens/37343.jpeg"
     },
 
@@ -1390,7 +1390,7 @@ const produtos = [
 
     {
         codigo: "385",
-        descricao: "",
+        descricao: "Loctite 601 Cola de Fixação",
         imagem: "imagens/385.jpeg"
     },
 
@@ -1400,7 +1400,7 @@ const produtos = [
 
     {
         codigo: "387",
-        descricao: "",
+        descricao: "Loctite 515 Junta Flange Motores",
         imagem: "imagens/387.jpeg"
     },
 
@@ -1410,7 +1410,7 @@ const produtos = [
 
     {
         codigo: "38824",
-        descricao: "",
+        descricao: "Fita Adesiva Larga Transparente",
         imagem: "imagens/38824.jpeg"
     },
 
@@ -1420,7 +1420,7 @@ const produtos = [
 
     {
         codigo: "402",
-        descricao: "",
+        descricao: "Loctite 271 Trava Rosca Torque Alto",
         imagem: "imagens/402.jpeg"
     },
 
@@ -1430,7 +1430,7 @@ const produtos = [
 
     {
         codigo: "403",
-        descricao: "",
+        descricao: "Loctite 567 Veda Rosca ",
         imagem: "imagens/403.jpeg"
     },
 
@@ -1440,7 +1440,7 @@ const produtos = [
 
     {
         codigo: "41692",
-        descricao: "",
+        descricao: "Borne Sak 2,5mm",
         imagem: "imagens/41692.jpeg"
     },
 
@@ -1450,7 +1450,7 @@ const produtos = [
 
     {
         codigo: "43479",
-        descricao: "",
+        descricao: "Bloco de APR de Bolso",
         imagem: "imagens/43479.jpeg"
     },
 
@@ -1460,7 +1460,7 @@ const produtos = [
 
     {
         codigo: "43584",
-        descricao: "",
+        descricao: "Resistência Itipack",
         imagem: "imagens/43584.jpeg"
     },
 
@@ -1470,7 +1470,7 @@ const produtos = [
 
     {
         codigo: "43942",
-        descricao: "",
+        descricao: "Bobina 220V Danfoss",
         imagem: "imagens/43942.jpeg"
     },
 
@@ -1480,7 +1480,7 @@ const produtos = [
 
     {
         codigo: "44857",
-        descricao: "",
+        descricao: "Disco de corte Fino 1mm",
         imagem: "imagens/44857.jpeg"
     },
 
@@ -1490,7 +1490,7 @@ const produtos = [
 
     {
         codigo: "46382",
-        descricao: "",
+        descricao: "Módulo Telco Emissor e Receptor Modelo PA10B613",
         imagem: "imagens/46382.jpeg"
     },
 
@@ -1500,7 +1500,7 @@ const produtos = [
 
     {
         codigo: "46384",
-        descricao: "",
+        descricao: "Sensores Telco Usado na Prensa.\nTransmissor: 46384 Receptor: 39682",
         imagem: "imagens/46384.jpeg"
     },
 
@@ -1510,7 +1510,7 @@ const produtos = [
 
     {
         codigo: "47077",
-        descricao: "",
+        descricao: "Disco Flap Lixadeira",
         imagem: "imagens/47077.jpeg"
     },
 
@@ -1530,7 +1530,7 @@ const produtos = [
 
     {
         codigo: "50751",
-        descricao: "",
+        descricao: "Sensor Wenglor XM98PAH2",
         imagem: "imagens/50751.jpeg"
     },
 
@@ -1540,7 +1540,7 @@ const produtos = [
 
     {
         codigo: "51162",
-        descricao: "",
+        descricao: "Sensor Indutivo IFM 3F 8mm",
         imagem: "imagens/51162.jpeg"
     },
 
@@ -1550,7 +1550,7 @@ const produtos = [
 
     {
         codigo: "54157",
-        descricao: "",
+        descricao: "Inversor SEW 7,5KW Tecnologico\nMDX61B0075-5A3-4-0T",
         imagem: "imagens/54157.jpeg"
     },
 
@@ -1560,7 +1560,7 @@ const produtos = [
 
     {
         codigo: "54158",
-        descricao: "",
+        descricao: "Inversor SEW Movidrive 5,5KW",
         imagem: "imagens/54158.jpeg"
     },
 
@@ -1570,7 +1570,7 @@ const produtos = [
 
     {
         codigo: "54159",
-        descricao: "",
+        descricao: "Inversor SEW 4KW\nMDX61B0040-5A3-4-0T",
         imagem: "imagens/54159.jpeg"
     },
 
@@ -1580,7 +1580,7 @@ const produtos = [
 
     {
         codigo: "54160",
-        descricao: "",
+        descricao: "Inversor SEW 2,2KW Tecnologico\nMDX61B0022-5A3-4-0T",
         imagem: "imagens/54160.jpeg"
     },
 
@@ -1590,7 +1590,7 @@ const produtos = [
 
     {
         codigo: "54168",
-        descricao: "",
+        descricao: "Bobina Solenóide 24v 1,25A",
         imagem: "imagens/54168.jpeg"
     },
 
@@ -1600,7 +1600,7 @@ const produtos = [
 
     {
         codigo: "54178",
-        descricao: "",
+        descricao: "Pressostato Rexroth R90112360 350bar",
         imagem: "imagens/54178.jpeg"
     },
 
@@ -1610,7 +1610,7 @@ const produtos = [
 
     {
         codigo: "54179",
-        descricao: "",
+        descricao: "Pressostato Dungs Usado na Vyncke",
         imagem: "imagens/54179.jpeg"
     },
 
@@ -1620,7 +1620,7 @@ const produtos = [
 
     {
         codigo: "55427",
-        descricao: "",
+        descricao: "Coletor dos Carros Satélite 5511 5515",
         imagem: "imagens/55427.jpeg"
     },
 
@@ -1630,7 +1630,7 @@ const produtos = [
 
     {
         codigo: "58927",
-        descricao: "",
+        descricao: "Conexão Emenda Reta 6mm",
         imagem: "imagens/58927.jpeg"
     },
 
@@ -1640,7 +1640,7 @@ const produtos = [
 
     {
         codigo: "58939",
-        descricao: "",
+        descricao: "Conexão Tipo L 3/8 10mm",
         imagem: "imagens/58939.jpeg"
     },
 
@@ -1650,7 +1650,7 @@ const produtos = [
 
     {
         codigo: "59838",
-        descricao: "",
+        descricao: "Contator 3RT1036 50A 220V",
         imagem: "imagens/59838.jpeg"
     },
 
@@ -1660,7 +1660,7 @@ const produtos = [
 
     {
         codigo: "64406",
-        descricao: "",
+        descricao: "Luva 1\" BSP",
         imagem: "imagens/64406.jpeg"
     },
 
@@ -1670,7 +1670,7 @@ const produtos = [
 
     {
         codigo: "64408",
-        descricao: "",
+        descricao: "Luva 1/2\" BSP",
         imagem: "imagens/64408.jpeg"
     },
 
@@ -1680,7 +1680,7 @@ const produtos = [
 
     {
         codigo: "64412",
-        descricao: "",
+        descricao: "Luva 3/4\" BSP",
         imagem: "imagens/64412.jpeg"
     },
 
@@ -1690,7 +1690,7 @@ const produtos = [
 
     {
         codigo: "6899",
-        descricao: "",
+        descricao: "Fita Dupla Face Larga",
         imagem: "imagens/6899.jpeg"
     },
 
@@ -1700,7 +1700,7 @@ const produtos = [
 
     {
         codigo: "6933",
-        descricao: "",
+        descricao: "Fita Adesiva Larga Marrom",
         imagem: "imagens/6933.jpeg"
     },
 
@@ -1710,7 +1710,7 @@ const produtos = [
 
     {
         codigo: "7218",
-        descricao: "",
+        descricao: "Fusivel 3NA3 NH2 400A",
         imagem: "imagens/7218.jpeg"
     },
 
@@ -1720,7 +1720,7 @@ const produtos = [
 
     {
         codigo: "72226",
-        descricao: "",
+        descricao: "Transmissor Novus Icavi",
         imagem: "imagens/72226.jpeg"
     },
 
@@ -1730,7 +1730,7 @@ const produtos = [
 
     {
         codigo: "72371",
-        descricao: "",
+        descricao: "Conexão União 1\" BSP",
         imagem: "imagens/72371.jpeg"
     },
 
@@ -1740,7 +1740,7 @@ const produtos = [
 
     {
         codigo: "72374",
-        descricao: "",
+        descricao: "Conexão União 1/2\" BSP",
         imagem: "imagens/72374.jpeg"
     },
 
@@ -1750,7 +1750,7 @@ const produtos = [
 
     {
         codigo: "72380",
-        descricao: "",
+        descricao: "Conexão União 3/4\" BSP",
         imagem: "imagens/72380.jpeg"
     },
 
@@ -1760,7 +1760,7 @@ const produtos = [
 
     {
         codigo: "74486",
-        descricao: "",
+        descricao: "Cabo IFM EVT M12 10mts",
         imagem: "imagens/74486.jpeg"
     },
 
@@ -1770,7 +1770,7 @@ const produtos = [
 
     {
         codigo: "74648",
-        descricao: "",
+        descricao: "Cabo IFM EVT M12 25mts",
         imagem: "imagens/74648.jpeg"
     },
 
@@ -1780,7 +1780,7 @@ const produtos = [
 
     {
         codigo: "74683",
-        descricao: "",
+        descricao: "Transmissor Pressão\nWika 0 a 40bar 4~20ma",
         imagem: "imagens/74683.jpeg"
     },
 
@@ -1790,7 +1790,7 @@ const produtos = [
 
     {
         codigo: "74716",
-        descricao: "",
+        descricao: "Sensor Indutivo IPF Siempelkamp\nUsado na Prensa",
         imagem: "imagens/74716.jpeg"
     },
 
@@ -1800,7 +1800,7 @@ const produtos = [
 
     {
         codigo: "74726",
-        descricao: "",
+        descricao: "Contator 3RT 9A 220V",
         imagem: "imagens/74726.jpeg"
     },
 
@@ -1810,7 +1810,7 @@ const produtos = [
 
     {
         codigo: "76435",
-        descricao: "",
+        descricao: "Sensor Leuze PRK46C\nUtiliza espelho",
         imagem: "imagens/76435.jpeg"
     },
 
@@ -1820,7 +1820,7 @@ const produtos = [
 
     {
         codigo: "804676",
-        descricao: "",
+        descricao: "Servo Motor Siemens\nFlap de ar Primário",
         imagem: "imagens/804676.jpeg"
     },
 
@@ -1830,7 +1830,7 @@ const produtos = [
 
     {
         codigo: "80639",
-        descricao: "",
+        descricao: "Placa Borne Pequeno Motores",
         imagem: "imagens/80639.jpeg"
     },
 
@@ -1840,7 +1840,7 @@ const produtos = [
 
     {
         codigo: "8599",
-        descricao: "",
+        descricao: "Conexão Luva 1/2\" BSP",
         imagem: "imagens/8599.jpeg"
     },
 
@@ -1850,7 +1850,7 @@ const produtos = [
 
     {
         codigo: "86763",
-        descricao: "",
+        descricao: "Sensor Diapasão FTL31\nMancal do Secador",
         imagem: "imagens/86763.jpeg"
     },
 
@@ -1860,7 +1860,7 @@ const produtos = [
 
     {
         codigo: "89685",
-        descricao: "",
+        descricao: "Conexão Tipo T 16mm",
         imagem: "imagens/89685.jpeg"
     },
 
@@ -1870,7 +1870,7 @@ const produtos = [
 
     {
         codigo: "90003",
-        descricao: "",
+        descricao: "Sensor de Vibração VTV122",
         imagem: "imagens/90003.jpeg"
     },
 
@@ -1880,7 +1880,7 @@ const produtos = [
 
     {
         codigo: "90953",
-        descricao: "",
+        descricao: "Placa Borne Médio Motor",
         imagem: "imagens/90953.jpeg"
     },
 
@@ -1890,7 +1890,7 @@ const produtos = [
 
     {
         codigo: "93288",
-        descricao: "",
+        descricao: "Junta 4\" 150lbs ASME",
         imagem: "imagens/93288.jpeg"
     },
 
@@ -1900,7 +1900,7 @@ const produtos = [
 
     {
         codigo: "93289",
-        descricao: "",
+        descricao: "Junta 2\" 300lbs ASME",
         imagem: "imagens/93289.jpeg"
     },
 
@@ -1910,7 +1910,7 @@ const produtos = [
 
     {
         codigo: "93290",
-        descricao: "",
+        descricao: "Junta 3\" 150lbs ASME",
         imagem: "imagens/93290.jpeg"
     },
 
@@ -1920,7 +1920,7 @@ const produtos = [
 
     {
         codigo: "93302",
-        descricao: "",
+        descricao: "Junta 3\" 300lbs ASME",
         imagem: "imagens/93302.jpeg"
     },
 
@@ -1930,7 +1930,7 @@ const produtos = [
 
     {
         codigo: "93963",
-        descricao: "",
+        descricao: "Marcador Permanente Amarelo",
         imagem: "imagens/93963.jpeg"
     },
 
@@ -1940,7 +1940,7 @@ const produtos = [
 
     {
         codigo: "95670",
-        descricao: "",
+        descricao: "Chave Fim de Curso\nCordão de Segurança Pátio",
         imagem: "imagens/95670.jpeg"
     },
 
@@ -1950,7 +1950,7 @@ const produtos = [
 
     {
         codigo: "95823",
-        descricao: "",
+        descricao: "Tomada Plugue Steck 220V\nMacho 2P+T",
         imagem: "imagens/95823.jpeg"
     },
 
@@ -1960,7 +1960,7 @@ const produtos = [
 
     {
         codigo: "95824",
-        descricao: "",
+        descricao: "Tomada Plugue Steck 380V\nMacho 3P+T",
         imagem: "imagens/95824.jpeg"
     },
 
@@ -1970,7 +1970,7 @@ const produtos = [
 
     {
         codigo: "96360",
-        descricao: "",
+        descricao: "Etiqueta Tag Hellerman Tyton",
         imagem: "imagens/96360.jpeg"
     },
 
@@ -1980,7 +1980,7 @@ const produtos = [
 
     {
         codigo: "9746",
-        descricao: "",
+        descricao: "Conexão Niple 1/2\" BSP",
         imagem: "imagens/9746.jpeg"
     },
 
@@ -1990,7 +1990,7 @@ const produtos = [
 
     {
         codigo: "9748",
-        descricao: "",
+        descricao: "Conexão Tampão Bujão 1\" BSP",
         imagem: "imagens/9748.jpeg"
     },
 
@@ -2000,7 +2000,7 @@ const produtos = [
 
     {
         codigo: "98578",
-        descricao: "",
+        descricao: "Junta 1,5\" 300lbs ASME",
         imagem: "imagens/98578.jpeg"
     },
 
@@ -2010,7 +2010,7 @@ const produtos = [
 
     {
         codigo: "98623",
-        descricao: "",
+        descricao: "Caixa Plastica Tomada de Manutenção",
         imagem: "imagens/98623.jpeg"
     },
 
@@ -2020,7 +2020,7 @@ const produtos = [
 
     {
         codigo: "98660",
-        descricao: "",
+        descricao: "Tomada Plugue Steck Embutir\nFêmea 2P+T",
         imagem: "imagens/98660.jpeg"
     },
 
@@ -2030,7 +2030,7 @@ const produtos = [
 
     {
         codigo: "98931",
-        descricao: "",
+        descricao: "Cartão Entrada Servo Válvula\nEntrada da Prensa",
         imagem: "imagens/98931.jpeg"
     }
 
