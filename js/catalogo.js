@@ -1,6 +1,8 @@
 
 const listaProdutos = document.getElementById("listaProdutos");
 
+const areaInicial = document.getElementById("areaInicial");
+
 // ========================================
 // MENSAGENS MOTIVACIONAIS
 // ========================================
@@ -129,5 +131,40 @@ campoBusca.addEventListener("input", function() {
     });
 
     mostrarProdutos(produtosFiltrados);
+
+});
+
+// ========================================
+// PROCEDIMENTOS
+// ========================================
+
+const botaoProcedimentos = document.getElementById("botaoProcedimentos");
+
+const listaProcedimentos = document.getElementById("listaProcedimentos");
+
+
+botaoProcedimentos.addEventListener("click", function() {
+
+    areaInicial.style.display = "none";
+
+    listaProdutos.innerHTML = "";
+
+    listaProcedimentos.innerHTML = `
+        <h2>📋 Procedimentos</h2>
+    `;
+
+    procedimentos.forEach(function(procedimento) {
+
+        listaProcedimentos.innerHTML += `
+            <div class="card-procedimento">
+
+                <a href="${procedimento.arquivo}" target="_blank">
+                    📋 ${procedimento.nome}
+                </a>
+
+            </div>
+        `;
+
+    });
 
 });
