@@ -28,6 +28,22 @@ header h1 {
     border: none;
     border-radius: 8px;
 }
+/* ÁREA DE PESQUISA */
+.area-pesquisa {
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    gap: 10px;
+}
+
+.icone-pesquisa {
+    font-size: 25px;
+
+    color: white;
+}
 
 #listaProdutos {
     display: grid;
@@ -173,4 +189,122 @@ Isso também ajuda quando alguém abrir pelo celular*/
         opacity: 1;
     }
 
+}
+
+/* ========================================
+   PROCEDIMENTOS
+   ======================================== */
+
+#listaProcedimentos {
+    width: 90%;
+    max-width: 800px;
+    margin: 40px auto;
+}
+
+#listaProcedimentos h2 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+#listaProcedimentos p {
+    margin: 12px 0;
+}
+
+#listaProcedimentos a {
+    display: block;
+    padding: 18px 20px;
+
+    background-color: white;
+
+    border-radius: 10px;
+
+    text-decoration: none;
+
+    color: #222;
+
+    font-size: 20px;
+
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+
+    transition: 0.3s;
+}
+
+#listaProcedimentos a:hover {
+    transform: translateY(-3px);
+
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.25);
+}
+
+/* ========================================
+   CARDS DOS PROCEDIMENTOS
+   ======================================== */
+
+.card-procedimento {
+    margin-bottom: 15px;
+}
+
+.card-procedimento a {
+    display: block;
+
+    background-color: white;
+
+    padding: 20px;
+
+    border: 1px solid #000;
+
+    border-radius: 12px;
+
+    text-decoration: none;
+
+    color: #222;
+
+    font-size: 20px;
+
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
+
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card-procedimento a:hover {
+    transform: translateY(-4px);
+
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.18);
+}
+
+/* ========================================
+   BOTÃO PROCEDIMENTOS
+   ======================================== */
+
+#botaoProcedimentos {
+    display: block;
+
+    width: 350px;
+
+    margin: 30px auto 25px auto;
+
+    padding: 15px 20px;
+
+    background-color: white;
+
+    color: #0059ff;
+
+    border: 1px solid #000;
+
+    border-radius: 8px;
+
+    font-size: 18px;
+
+    font-weight: bold;
+
+    cursor: pointer;
+
+    transition: 0.3s;
+}
+
+#botaoProcedimentos:hover {
+    background-color: #e8f0ff;
+
+    transform: translateY(-2px);
+
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.18);
 }
